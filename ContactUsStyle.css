@@ -1,0 +1,17 @@
+body {
+text-align: center;
+background-color: lightblue;
+}
+h1 {
+font-size: 50px;
+font-family: Copperplate, Papyrus, Fantasy;
+color: dodgerblue;
+}
+
+h2 {
+color: dodgerblue;
+}
+
+p {
+color: darkblue;
+}
